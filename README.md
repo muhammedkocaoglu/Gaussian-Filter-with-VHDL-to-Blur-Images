@@ -5,3 +5,11 @@ In this project, I have implemented Gaussian Filter using VHDL languages.
 
 Medium
 https://medium.com/p/8bc40d95fff3/edit 
+
+
+
+LinkedIn:
+https://www.linkedin.com/in/muhammed-kocao%C4%9Flu-2b661b178/
+
+
+
